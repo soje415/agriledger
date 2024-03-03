@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-03T10:24:58.921Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="__UkXokkIPEKzy03ti3Z" version="23.0.0" type="github">
+<mxfile modified="2024-03-03T10:27:29.670Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ryf7E_pytG6HtLQjBZtP" version="23.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1044" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
               <mxPoint x="195" y="211" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zy26cvtidKkiLDa0S6Zv-25" value="&lt;b&gt;High-Level Serverless Architecture for Ingesting Satellite imagery&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
