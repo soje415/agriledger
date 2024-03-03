@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-03T10:37:19.850Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sthp0_St0vWUgbO7CDB6" version="23.0.0" type="github">
+<mxfile modified="2024-03-03T11:01:59.221Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7oh1LWcKdyWVaXgPEN0S" version="23.0.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1044" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,10 +37,10 @@
           <mxGeometry x="480" y="90" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Zy26cvtidKkiLDa0S6Zv-20" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/blockchain.svg;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
-          <mxGeometry x="770" y="90" width="80" height="80" as="geometry" />
+          <mxGeometry x="780" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zy26cvtidKkiLDa0S6Zv-24" value="Write to Solana BlockChain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
-          <mxGeometry x="780" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="790" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy26cvtidKkiLDa0S6Zv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-74">
           <mxGeometry relative="1" as="geometry">
@@ -53,6 +53,12 @@
             <mxPoint x="100" y="128.5" as="sourcePoint" />
             <mxPoint x="172" y="128.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zy26cvtidKkiLDa0S6Zv-29" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_blockchain;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
+          <mxGeometry x="770" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy26cvtidKkiLDa0S6Zv-30" value="AWS Managed Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
+          <mxGeometry x="780" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zy26cvtidKkiLDa0S6Zv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
